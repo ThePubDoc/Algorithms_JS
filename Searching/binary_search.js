@@ -18,3 +18,4 @@ function bs(arr, x, start, end) {
   
 
   console.log(bs([1, 2, 3, 4], 1, 0, 4));
+  module.exports = bs;
