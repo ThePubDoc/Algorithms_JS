@@ -14,3 +14,4 @@ function bs(arr){
 
 
 console.log(bs([1,33,1,2,3,5656,767,878,76,7687]));
+module.exports = bs;
