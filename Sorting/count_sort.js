@@ -26,3 +26,4 @@ function cs(arr){
 
 
 console.log(cs([1,3,4,3,2,1,2,2,3,4,4,5,3,2,1,2,33,23]));
+module.exports = cs;
