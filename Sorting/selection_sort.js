@@ -16,4 +16,4 @@ function ss(arr){
 
 console.log(ss([12,34,12,2,4,6,7,21,213,33]));
 
-module.exports = ss
+module.exports = ss;
