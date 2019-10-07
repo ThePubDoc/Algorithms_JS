@@ -1,4 +1,4 @@
-function ss(arr){
+function selection_sort(arr){
 
     var temp=0;
     for(i=0;i<arr.length-1;i++){
