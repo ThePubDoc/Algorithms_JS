@@ -1,1 +1,1 @@
-# Algorithms_JS
+Implementation of algorithms in JavaScript.
