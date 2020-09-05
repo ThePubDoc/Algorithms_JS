@@ -27,3 +27,5 @@ function merge(a1 , a2){
 }
 
 console.log(merge_sort([1,32,22,12,444,22,3221]));
+
+module.exports = merge_sort;
