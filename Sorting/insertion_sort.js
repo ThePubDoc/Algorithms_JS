@@ -16,3 +16,5 @@ function is(arr){
 
 
 console.log(is([1,34,5,121,44,3,43,54,6545,54]));
+
+module.exports = is;
